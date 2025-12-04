@@ -1,0 +1,116 @@
+.input-box {
+    padding: 8px;
+    spacing: 6px;
+}
+
+.task-entry {
+    padding: 8px;
+    border-radius: 8px;
+    min-width: 300px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.quick-time-label, .manual-label {
+    font-size: 0.9em;
+    color: #8be9fd;
+    padding: 4px;
+}
+
+.quick-time-box {
+    spacing: 6px;
+}
+
+.quick-btn {
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #50fa7b;
+    color: #282a36;
+    font-weight: bold;
+}
+
+.quick-btn:hover {
+    background-color: #5af78e;
+}
+
+.deadline-box {
+    spacing: 6px;
+}
+
+.date-entry, .time-entry {
+    padding: 6px;
+    border-radius: 6px;
+    min-width: 100px;
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.now-btn {
+    padding: 6px 12px;
+    border-radius: 6px;
+    background-color: #bd93f9;
+    color: white;
+    font-weight: bold;
+}
+
+.now-btn:hover {
+    background-color: #caa6ff;
+}
+
+.task-item-box {
+    padding: 8px;
+    spacing: 4px;
+}
+
+.task-main-row {
+    spacing: 10px;
+}
+
+.checkbox, .checkbox-checked {
+    padding: 4px 10px;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.1);
+    font-weight: bold;
+}
+
+.checkbox-checked {
+    background-color: #50fa7b;
+    color: #282a36;
+}
+
+.task-text {
+    padding: 4px;
+    min-width: 180px;
+}
+
+.task-text-completed {
+    padding: 4px;
+    min-width: 180px;
+    color: #6272a4;
+    text-decoration: line-through;
+}
+
+.deadline-row {
+    padding-left: 30px;
+    spacing: 5px;
+}
+
+.deadline-text {
+    font-size: 0.85em;
+    color: #8be9fd;
+}
+
+.deadline-overdue {
+    font-size: 0.85em;
+    color: #ff5555;
+    font-weight: bold;
+}
+
+.remove-btn {
+    padding: 4px 10px;
+    background-color: #ff5555;
+    color: white;
+    border-radius: 6px;
+}
+
+.remove-btn:hover {
+    background-color: #ff6e6e;
+}

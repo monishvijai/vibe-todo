@@ -1,0 +1,8 @@
+{
+  "uuid": "vibe-todo@monish",
+  "name": "Vibe To-Do",
+  "description": "Simple to-do list with alerts for Linux GNOME.",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "url": "https://github.com/monish/vibe-todo"
+}
