@@ -1,3 +1,13 @@
+/*
+ * Vibe To-Do - GNOME Shell Extension
+ * Copyright (C) 2024 Monish
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ */
+
 import St from 'gi://St';
 import GLib from 'gi://GLib';
 import Clutter from 'gi://Clutter';
